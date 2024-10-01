@@ -34,11 +34,11 @@
   - **SSD1306 OLED Display (128x64 pixels)** : This is a small monochrome display that uses I2C communication to show the measured air quality values in ppm. It provides a clear and crisp output for easy monitoring.
   - **Arduino Uno** : The Arduino Uno is a microcontroller that reads the data from the MQ-135 sensor, processes it, and sends the information to the OLED display. It acts as the brain of the system, enabling real-time air quality monitoring.
 
-<img src="https://github.com/user-attachments/assets/3c96fd24-61ec-49ca-91d7-30a251879bed" alt="Screenshot 20111124-10-09 035541" width="400" height="300" style="border:2 solid lightblue;"/>
+<img src="https://github.com/user-attachments/assets/3c96fd24-61ec-49ca-91d7-30a251879bed" alt="Screenshot 20111124-10-09 035541" width="350" height="300" style="border:2 solid lightblue;"/>
 
-<img src="https://github.com/user-attachments/assets/073b7d60-f118-4310-9101-b748df516c6f" alt="Screenshot 20111124-10-09 035541" width="300" height="300" style="border:2 solid lightblue;"/>
+<img src="https://github.com/user-attachments/assets/073b7d60-f118-4310-9101-b748df516c6f" alt="Screenshot 20111124-10-09 035541" width="275" height="275" style="border:2 solid lightblue;"/>
 
-<img src="https://github.com/user-attachments/assets/1a5b0d0e-3d56-4309-b0cb-2a8ec72ce134" alt="Screenshot 20111124-10-09 035541" width="300" height="300" style="border:2 solid lightblue;"/>
+<img src="https://github.com/user-attachments/assets/1a5b0d0e-3d56-4309-b0cb-2a8ec72ce134" alt="Screenshot 20111124-10-09 035541" width="275" height="275" style="border:2 solid lightblue;"/>
     
 
 ## Library Installation
